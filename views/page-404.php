@@ -11,7 +11,7 @@
 	</style>
 	<div class="main">
 		<div class="container">
-			<h2>您要找的网页不存在</h2>
+			<h2>您要找的网页不存在...</h2>
 			<div class="content">
 				<img class="error-404" src="<?php echo SITE_URL;?>/assets/images/404.png" alt="网页不存在" />
 				<p>
