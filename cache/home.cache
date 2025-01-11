@@ -1,0 +1,516 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+	<title>纽约同城婚介交友 - 找男朋友找女朋友</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="纽约有什么好的婚介交友? 你在相亲,找男朋友吗? 理工男在找女朋友. 18岁与家人一起移民来美国, 在纽约法拉盛住了差不多十多年. 广交友, 性格好.">
+<meta name="keywords" content="纽约婚介交友, 法拉盛婚介找友, 纽约找男朋友">
+<meta name="author" content="Colin Zhao">
+<link rel='shortcut icon' href='favicon.ico' type='image/x-icon'/ >
+<meta name="format-detection" content="telephone=no">
+<meta name="google-site-verification" content="rA4kzdLnrqIZt9dQUioJXNJcSwFcvdNOzwEpIRumI8s">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6301361047314396"
+     crossorigin="anonymous"></script>
+<style>
+.center{
+	text-align:center;
+}
+.btn {
+	box-shadow:inset 0px 1px 0px 0px #9acc85;
+	background:linear-gradient(to bottom, #74ad5a 5%, #68a54b 100%);
+	background-color:#74ad5a;
+	border:1px solid #36472d;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff !important;
+	font-family:Arial;
+	font-size:13px;
+	font-weight:bold;
+	padding:6px 12px;
+	text-decoration:none;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #68a54b 5%, #74ad5a 100%);
+	background-color:#68a54b;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+.panel-error{
+	border-top:1px solid #f5c6cb; border-bottom:1px solid #f5c6cb;
+	padding:15px;
+	color:#721c24; background-color:#f8d7da;
+}
+.panel-success{
+	border-top:1px solid #c3e6cb; border-bottom:1px solid #c3e6cb;
+	padding:15px;
+	color:#155724; background-color:#d4edda;
+}
+body{padding:0;margin:0;background:#FAFAFA;color:#474747;font-size:16px;line-height:28px;font-family:"Microsoft Yahei","微软雅黑",sans-serif;}
+ul{margin:0;padding:0;}
+li{list-style:none;}
+h1{padding:0;margin:0;font-size:18px;font-weight:bold;}
+h2{padding:0;margin:0;font-size:18px;font-weight:bold;color:#000;}
+h3{padding:0;margin:15px 0;font-size:18px;font-weight:bold;color:#000;}
+h3 a{color:#000;}
+p{margin:0 0 10px;}
+img{width:100%;}
+b.focus{color:#D72171;}
+.wp-block-gallery figure{margin-left:0;margin-right:0;}
+.clear{clear:both;}
+.container{width:860px;max-width:100%;margin:0 auto;padding:0 15px;box-sizing:border-box;}
+.header{height:60px;line-height:60px;background:#D72171;color:#FFF;}
+.header a{color:#FFF;text-decoration:none;}
+.header h1 a{float:left;font-weight:normal;}
+.header .signin{float:right;line-height:60px;color:#FFF;padding:0 10px;margin-right:10px;}
+.header .normal{float:right;line-height:60px;color:#FFF;padding:0 10px;margin-right:10px;}
+.header .signup{float:right;line-height:60px;background:#474747;color:#FFF;padding:0 10px;}
+.sub-header{height:48px;line-height:48px;background:#474747;text-align:right;}
+.sub-header a{color:#FFF;padding:0 10px;text-decoration:none;}
+.main{margin:30px 0;min-height:65vh;}
+.breadcrum{margin-bottom:25px;font-size:14px;}
+.breadcrum a{text-decoration:none;color:#474747;}
+.highlight{margin:15px 0 25px;background:#FFF;}
+.highlight .profile{width:300px;float:left;margin:0 25px 0 0;}
+.highlight .contacts p{border-bottom:1px dashed #DDD;line-height:37px;margin:0;}
+.highlight .contacts p span.sub{color:#DDD;}
+.highlight a{color:#D72171;text-decoration:none;}
+.content p{/*text-align:justify;*/}
+.content a{color:#D72171;text-decoration:none;}
+.content a.read-more{color:#D72171;}
+.footer{margin-top:50px;color:#FFF;background:#474747;padding:30px 0;}
+.member{margin-bottom:30px;}
+.member h2{margin-bottom:10px;}
+.member h2 a{color:#000;}
+.member img{width:100px;float:left;margin:0 15px 0 0;}
+.member p {margin: 0;}
+.member p.intro{font-size: 14px;}
+.hot-member{margin: 0 -12px;}
+.hot-member p{text-align: center; font-size: 13px; line-height: 6px;color: #888;}
+.suggest .unit{float:left;margin-right:15px;max-width:175px;text-align:center;background:#FFF;}
+.suggest .unit.last{margin-right:0;}
+.suggest .unit a{font-size:80%;color:#474747;}
+.suggest .unit a:hover{color:#D72171;}
+.suggest .unit a img{max-width:175px;}
+.footer ul{margin-bottom:30px;}
+.footer h3{color:#FFF;}
+.footer a{color:#DDD;text-decoration:none;}
+.col-6-fix{
+	width: 49.9999%;
+	float: left;
+	padding: 0 15px;
+	box-sizing: border-box;
+}
+.col-6{
+	width: 49.9999%;
+	float: left;
+	padding: 0 15px;
+	box-sizing: border-box;
+}
+.mobile-only{display: none;}
+@media only screen and (max-width: 680px) {
+	.header .last{margin-right:-5px;}
+/*	.header .signup span{display:none;}
+	.header .normal span{display:none;}*/
+	.header .signup, .header .normal{
+		line-height: 22px;
+		padding: 8px 8px;
+	}
+	.highlight .profile{max-width:100%;width:100%;float:none;margin:0;}
+	.highlight{padding:15px;font-size:15px;border:1px solid #F3F3F3;}
+	.member img{width:80px;float:left;margin:0 10px 10px 0;}
+	.member p.intro{clear:both;}
+	.suggest .unit{width:30%;margin-right:4.9999%;}
+	.suggest .unit a span{display:none;}
+	.col-6{
+		width: 100%;
+	}
+	.mobile-only{display: block;}
+}
+</style>
+<script src="https://ad.369usa.com/ad.js"></script></head>
+<body>
+	<div class="header">
+	<div class="container">
+		<h1><a href="https://www.flushingdating.com">纽约同城交友</a></h1>
+		
+					<a class="normal last" href="https://www.flushingdating.com/members"><span>所有</span><br class="mobile-only" />会员</a>
+			<a class="signup" href="https://www.flushingdating.com/signup"><span>免费</span><br class="mobile-only" />注册</a>
+			<!-- <a class="signin" href="https://www.flushingdating.com/login">登陆</a> -->
+				
+	</div>
+</div>
+
+	<style>
+	.banner{background:#474747;color:#FFF;padding:30px 0;}
+	.banner h2{font-size: 24px;color:#FFF;margin-bottom: 10px;}
+	.banner ul{padding-left:20px;}
+	.banner li{list-style: square;}
+	@media only screen and (max-width: 680px) {
+		.banner h2{text-align: center;}
+	}
+</style>
+<div class="banner">
+	<div class="container">
+		<h2>纽约交友找男女朋友</h2>
+		<div class="col-6">
+			<ul>
+				<li id="mary-content"></li>
+			</ul>
+		</div>
+		<!-- <div class="col-6">
+			<ul>
+				<li>仅限纽约本地人，非纽约居住者不要注册(包括纽约附近地区，如纽泽西，康州，费城...)。</li>
+				<li><u>免费注册，免费介绍</u>，如果配对成功请自觉包大红包给红娘。</li>
+				<li>保证资料真实性，红娘会私底下了解每个会员，以防骗子。</li>
+				<li>提供正确的婚恋建议，帮助坚立正确的择偶标准。</li>
+				<li>本网站红娘有着上20年的婚介经验，帮助配成上百对情侣。</li>
+			</ul>
+		</div>  -->
+		<div class="col-6" style="padding:35px 0;text-align: center;">
+			<a href="https://www.flushingdating.com/signup">
+				<button class="btn" style="font-size:28px;padding:20px 35px;">
+					马上免费注册
+				</button>
+			</a>
+			<div style="margin-top:6px;font-size:12px;">
+				注册十分简单<br/>
+				只花半分钟<br/>
+			</div>
+		</div>
+		<div class="clear"></div>
+	</div>
+</div>
+<script>
+fetch('/intro.txt').then(function(response){return response.text()}).then(function (response) {
+	 document.getElementById("mary-content").innerHTML = response;
+});
+</script>
+
+
+
+	<div class="main">
+		<div class="container">
+			<div class="content">
+
+				<div class="row">
+
+					<div class="col-6">
+						<div>
+							<a style="float:right;" href="/members">查看所有会员</a>
+							<h2 style="font-size:24px;">最新会员</h2>
+						</div>
+						<hr />
+													<div class="member clear">
+								<!-- <h2>
+									<a href="https://www.flushingdating.com/member/983">no_longer_needed</a>	
+								</h2> -->
+								<a href="https://www.flushingdating.com/member/983">
+									<img class="profile" src="https://www.flushingdating.com/uploads/839ad1232f0295d2ba53bf3a53f11b4b.jpg" />
+								</a>
+								<p style="word-wrap: break-word;">
+									Tim Lu  
+									<br class="mobile-only" />
+									54, 男生<br/>
+								</p>
+								<p class="intro">
+															
+										微信: <b class="focus">timlu888</b><br/>
+																		现居住费城，美国公民，来自中国广州。离婚五年，巴士司机。身高165，体重76公斤，有房产。信仰佛教。 ...
+									<a href="https://www.flushingdating.com/member/983">[更多]</a>
+								</p>
+								<div class="clear"></div>
+							</div>
+													<div class="member clear">
+								<!-- <h2>
+									<a href="https://www.flushingdating.com/member/957">no_longer_needed</a>	
+								</h2> -->
+								<a href="https://www.flushingdating.com/member/957">
+									<img class="profile" src="https://www.flushingdating.com/uploads/e7fe6f5b6554ebb7b7bb9bf6062a8134.jpg" />
+								</a>
+								<p style="word-wrap: break-word;">
+									rex  
+									<br class="mobile-only" />
+									35, 男生<br/>
+								</p>
+								<p class="intro">
+																			电邮: Unclezhang1990@yahoo.com<br/>
+																		根据地纽约
+事业在外州
+来美二十余载 
+身高173
+体重70kg
+希望能找到有缘人 共度余生 ...
+									<a href="https://www.flushingdating.com/member/957">[更多]</a>
+								</p>
+								<div class="clear"></div>
+							</div>
+													<div class="member clear">
+								<!-- <h2>
+									<a href="https://www.flushingdating.com/member/940">no_longer_needed</a>	
+								</h2> -->
+								<a href="https://www.flushingdating.com/member/940">
+									<img class="profile" src="https://www.flushingdating.com/uploads/39ab716f4e03e485654ad88fecc83fca.jpg" />
+								</a>
+								<p style="word-wrap: break-word;">
+									Andy  
+									<br class="mobile-only" />
+									52, 男生<br/>
+								</p>
+								<p class="intro">
+															
+										微信: <b class="focus">hisuwhswq526</b><br/>
+																		出生浙江，在这边10多年，身体各项功能都健康完好，已经在这边生活了多年。我如今拥有车和房。此刻，我正在寻找一个陪伴我走过人生的女性伴侣。我明白，一万年太长，我所追求的只是能够与她携手走到白头之年。我希望找到一个与我志同道合的人，能够在共同的理想和目标下建立 ...
+									<a href="https://www.flushingdating.com/member/940">[更多]</a>
+								</p>
+								<div class="clear"></div>
+							</div>
+													<div class="member clear">
+								<!-- <h2>
+									<a href="https://www.flushingdating.com/member/933">no_longer_needed</a>	
+								</h2> -->
+								<a href="https://www.flushingdating.com/member/933">
+									<img class="profile" src="https://www.flushingdating.com/uploads/ba166123ca0567a5edc3530d8d4a1229.jpg" />
+								</a>
+								<p style="word-wrap: break-word;">
+									Lisa  
+									<br class="mobile-only" />
+									48, 女生<br/>
+								</p>
+								<p class="intro">
+															
+										微信: <b class="focus">wxid_0b0jaxe9h70k12</b><br/>
+																		本人在纽约上州，家庭管理，喜欢运动、旅游，读书，烹饪，大专，来美国两年，学生签证，分居，160厘米，体重50公斤。乐观积极向上，勤奋好学，一性格开朗大方，善良直爽，勤俭持家，无不良嗜好。个女儿已经在澳洲毕业工作，无负担 ...
+									<a href="https://www.flushingdating.com/member/933">[更多]</a>
+								</p>
+								<div class="clear"></div>
+							</div>
+													<div class="member clear">
+								<!-- <h2>
+									<a href="https://www.flushingdating.com/member/921">no_longer_needed</a>	
+								</h2> -->
+								<a href="https://www.flushingdating.com/member/921">
+									<img class="profile" src="https://www.flushingdating.com/uploads/6035dd63e254e37675498214798756f5.jpg" />
+								</a>
+								<p style="word-wrap: break-word;">
+									Kira Huang  
+									<br class="mobile-only" />
+									35, 男生<br/>
+								</p>
+								<p class="intro">
+															
+										微信: <b class="focus">Kira_HQH</b><br/>
+																		居住纽约，在家工作，政府工，帮人申请政府医保。
+不烟不酒，室内派，基本都在家里。周末固定去一次健身房。
+会和朋友外出和旅行，但比较少。
+身高165，体重170lb。未婚。 ...
+									<a href="https://www.flushingdating.com/member/921">[更多]</a>
+								</p>
+								<div class="clear"></div>
+							</div>
+													<div class="member clear">
+								<!-- <h2>
+									<a href="https://www.flushingdating.com/member/910">no_longer_needed</a>	
+								</h2> -->
+								<a href="https://www.flushingdating.com/member/910">
+									<img class="profile" src="https://www.flushingdating.com/uploads/d18aac70a1b1fc1a376dee9a53aeabf8.jpg" />
+								</a>
+								<p style="word-wrap: break-word;">
+									沈思雨  
+									<br class="mobile-only" />
+									34, 女生<br/>
+								</p>
+								<p class="intro">
+															
+										微信: <b class="focus">17163298643</b><br/>
+																		我是沈思雨，我来自中国深圳，现在在西雅图一家科技公司工作，喜欢旅行，打高尔夫，来没6年 毕业于华盛顿UW。离异 ...
+									<a href="https://www.flushingdating.com/member/910">[更多]</a>
+								</p>
+								<div class="clear"></div>
+							</div>
+													<div class="member clear">
+								<!-- <h2>
+									<a href="https://www.flushingdating.com/member/908">no_longer_needed</a>	
+								</h2> -->
+								<a href="https://www.flushingdating.com/member/908">
+									<img class="profile" src="https://www.flushingdating.com/uploads/b98f713f2d1b187d2d94b5e964983cd4.jpg" />
+								</a>
+								<p style="word-wrap: break-word;">
+									杨半球  
+									<br class="mobile-only" />
+									36, 男生<br/>
+								</p>
+								<p class="intro">
+															
+										微信: <b class="focus">Garbagebags</b><br/>
+																		名字：杨半球
+年纪： 1988
+出生:河南
+身高:170cm
+体重:65kg
+工作： MTA BUS 司机
+学历: 2 年社区大学
+居住城市:纽约
+婚姻状况:单身
+孩子年龄:0️⃣
+英语水平:普通交流
+宗教信仰:????️
+择偶要求 ...
+									<a href="https://www.flushingdating.com/member/908">[更多]</a>
+								</p>
+								<div class="clear"></div>
+							</div>
+													<div class="member clear">
+								<!-- <h2>
+									<a href="https://www.flushingdating.com/member/906">no_longer_needed</a>	
+								</h2> -->
+								<a href="https://www.flushingdating.com/member/906">
+									<img class="profile" src="https://www.flushingdating.com/uploads/99b0773876eac6ff8428bb8f86e692d5.jpg" />
+								</a>
+								<p style="word-wrap: break-word;">
+									李家豪  
+									<br class="mobile-only" />
+									37, 男生<br/>
+								</p>
+								<p class="intro">
+															
+										微信: <b class="focus">JH8888LEE</b><br/>
+																		男 纽约 大学本科以上 未婚 身高182 体重75kg 佛教 兴趣滑雪???? 高尔夫 看电影 唱歌 ...
+									<a href="https://www.flushingdating.com/member/906">[更多]</a>
+								</p>
+								<div class="clear"></div>
+							</div>
+											</div>
+
+					<div class="col-6">
+
+						
+						<h2 style="font-size:24px;">高人气会员</h2>
+						<hr />
+						<div class="row" style="margin-bottom:30px;">
+															<div class="col-6-fix">
+									<div class="hot-member clear">
+										<a href="https://www.flushingdating.com/member/906">
+											<img class="profile" src="https://www.flushingdating.com/uploads/99b0773876eac6ff8428bb8f86e692d5.jpg" />
+										</a>
+										<p>李家豪 37 </p>
+									</div>
+								</div>
+															<div class="col-6-fix">
+									<div class="hot-member clear">
+										<a href="https://www.flushingdating.com/member/892">
+											<img class="profile" src="https://www.flushingdating.com/uploads/91d5ef25fbb1207bdef9916644124dea.jpg" />
+										</a>
+										<p>Jack Wang 44 </p>
+									</div>
+								</div>
+															<div class="col-6-fix">
+									<div class="hot-member clear">
+										<a href="https://www.flushingdating.com/member/859">
+											<img class="profile" src="https://www.flushingdating.com/uploads/5844a835b303862e86a9870010ad9401.jpg" />
+										</a>
+										<p>章鱼 35 </p>
+									</div>
+								</div>
+															<div class="col-6-fix">
+									<div class="hot-member clear">
+										<a href="https://www.flushingdating.com/member/839">
+											<img class="profile" src="https://www.flushingdating.com/uploads/0d400bbf7f6caba7f9e06d6ee0c21ff9.jpg" />
+										</a>
+										<p>李辉 28 </p>
+									</div>
+								</div>
+															<div class="col-6-fix">
+									<div class="hot-member clear">
+										<a href="https://www.flushingdating.com/member/835">
+											<img class="profile" src="https://www.flushingdating.com/uploads/91d79eebcc3edeace7792963869c383a.jpg" />
+										</a>
+										<p>Vincent 35 </p>
+									</div>
+								</div>
+															<div class="col-6-fix">
+									<div class="hot-member clear">
+										<a href="https://www.flushingdating.com/member/535">
+											<img class="profile" src="https://www.flushingdating.com/uploads/cc39b2711817f8f43414f303d441a937.jpg" />
+										</a>
+										<p>Candy 36 </p>
+									</div>
+								</div>
+															<div class="col-6-fix">
+									<div class="hot-member clear">
+										<a href="https://www.flushingdating.com/member/771">
+											<img class="profile" src="https://www.flushingdating.com/uploads/3323004842d1adcefc6321e6aa555126.jpg" />
+										</a>
+										<p>Arno 27 </p>
+									</div>
+								</div>
+															<div class="col-6-fix">
+									<div class="hot-member clear">
+										<a href="https://www.flushingdating.com/member/766">
+											<img class="profile" src="https://www.flushingdating.com/uploads/169f5825938146d559013fa6ba7127bc.jpg" />
+										</a>
+										<p>Steven 35 </p>
+									</div>
+								</div>
+														<div class="clear"></div>
+							
+						</div>
+						<style>
+.ad-rose{
+	border-top:1px #DDD solid;border-bottom:1px #DDD solid;margin:0 0 30px;padding:30px 0 15px 0;
+	background:#FFF;color:#888;position: relative;}
+.ad-rose img{width: 100%;}
+.ad-rose .btn{float:right;}
+.ad-rose p{font-size: 12px;}
+.ad-rose p b{font-size: 14px;}
+.ad-rose .ad{position: absolute;top: 0;right: 0;background: #fef000;color: #777;display:inline-block;font-size: 10px;padding: 0 5px;line-height: 15px;}
+</style>
+<div class="ad-rose">
+	<div class="ad">付费广费</div>
+	<div class="row">
+		<div class="col-6">
+			<img src="http://api.369usa.com/wp-content/uploads/2020/02/world-single-union-qrcode.jpg" />
+		</div>
+		<div class="col-6">
+			<p>世界单身联谊会是征婚择偶的平台,喜结良缘,寻觅爱情.<br/>
+				联系电话: 7323316189 , 9177052606 , 7326662066<br/>
+				微信号: 7323316189 , 7326662066<br/></p>
+			<!-- <p><a class="btn" href="https://www.flushingdating.com/#">了解更多</a></p> -->
+		</div>
+		<div class="clear"></div>
+	</div>
+</div>					</div>
+
+					<div class="clear"></div>
+
+				</div>
+
+				<div style="padding:0 15px;">
+					<h2>让华人在纽约不再孤单</h2><hr />
+					<p style="font-size:14px;">
+						当你一个人走在法拉盛的大路上时， 当你一个人坐在通往曼哈顿的地铁上时，当你一个人漫步在布碌克林大桥时，你也许会觉得有少许的孤单。
+						如果你只要向前走一小步，纽约同城交友网将帮助你跨出走向爱情的一大步。我们的目标就是让法拉盛的大街上走着的人都是成双成对，让我们华人在异国每个人都有情人終成眷屬。
+					</p>
+				</div>
+
+			</div>
+		</div>
+	</div>
+	<div class="my-ad"></div>
+
+<div class="footer">
+	<div class="container">
+		<h3>婚恋博客文章</h3>
+		<ul>
+			<li><a href="https://www.flushingdating.com/blog/%e9%95%bf%e5%be%97%e6%bc%82%e4%ba%ae%ef%bc%8c%e5%9c%a8%e7%ba%bd%e7%ba%a6%e4%bd%86%e6%89%be%e4%b8%8d%e5%88%b0%e7%94%b7%e6%9c%8b%e5%8f%8b%e8%af%a5%e6%80%8e%e4%b9%88%e5%8a%9e%ef%bc%9f">长得漂亮，在纽约但找不到男朋友该怎么办？</a></li><li><a href="https://www.flushingdating.com/blog/%e5%9c%a8%e7%ba%bd%e7%ba%a630%e6%89%be%e4%b8%8d%e5%88%b0%e7%94%b7%e6%9c%8b%e5%8f%8b%e8%af%a5%e6%80%8e%e4%b9%88%e5%8a%9e">在纽约30+找不到男朋友该怎么办?</a></li><li><a href="https://www.flushingdating.com/blog/%e7%ba%bd%e7%ba%a6%e7%94%b7%e6%9c%8b%e5%8f%8b%e8%af%b4%e5%90%83%e6%b5%b7%e5%ba%95%e6%8d%9e%e5%a4%aa%e8%b4%b5%e4%ba%86">纽约男朋友说吃海底捞太贵了,该怎么办?</a></li><li><a href="https://www.flushingdating.com/blog/%e5%9c%a8%e7%ba%bd%e7%ba%a6%e6%89%be%e5%af%b9%e8%b1%a1%e8%84%b1%e5%8d%95%e7%9c%9f%e5%bf%83%e7%9a%84%e9%9a%be">在纽约找对象脱单真心的难!</a></li><li><a href="https://www.flushingdating.com/blog/%e7%ba%bd%e7%ba%a6%e5%a5%b3%e7%95%99%e5%ad%a6%e7%94%9f%e6%89%be%e7%94%b7%e6%9c%8b%e5%8f%8b%e7%9a%84%e8%a6%81%e6%b1%82%e5%88%b0%e5%ba%95%e6%9c%89%e5%a4%9a%e9%ab%98">纽约女留学生找男朋友的要求到底有多高?</a></li><li><a href="https://www.flushingdating.com/blog/%e5%83%8f%e7%ba%bd%e7%ba%a6%e8%bf%99%e6%a0%b7%e7%9a%84%e5%a4%a7%e9%83%bd%e5%b8%82%e5%a9%9a%e6%81%8b%e7%8e%87%e8%b6%8a%e6%9d%a5%e8%b6%8a%e4%bd%8e">像纽约这样的大都市婚恋率越来越低</a></li>			<li><a href="https://www.flushingdating.com/blog">查看所有文章</a></li>
+		</ul>
+		<div>
+			<!-- <a href="https://www.flushingdating.com/contact">联系我们</a> &nbsp;&nbsp; -->
+			<a href="https://www.flushingdating.com/sitemap">网站地图</a> &nbsp;&nbsp;
+			<a href="https://www.flushingdating.com/world-single-union">世界单身联谊会</a> &nbsp;&nbsp;
+		</div>
+	</div>
+</div>
+</body>
